@@ -1,0 +1,19 @@
+{
+  "ecmaFeatures": {
+    "modules": true
+  },
+  "globals": {
+    "describe": true,
+    "it": true
+  },
+  "env": {
+    "node": true
+  },
+  "rules": {
+    "comma-dangle": 2,
+    "no-unreachable": 2,
+    "no-unused-vars": 2,
+    "semi": 2,
+    "max-statements": [2, {"max": 17}]
+  }
+}

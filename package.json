@@ -1,0 +1,19 @@
+{
+  "name": "user",
+  "version": "1.0.0",
+  "description": "### Create folder",
+  "main": "user.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "w3cj <hello@cjr.co.de>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
